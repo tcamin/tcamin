@@ -19,6 +19,5 @@ Back in the days, before AI was a thing, I built an app to measure the tennis se
 ### Contact 📬
 How to reach me:
 
-- [@tomascamin](https://twitter.com/tomascamin) on Twitter
+- [@tomascamin](https://twitter.com/tomascamin)
 - [gmail](mailto:t.camin@gmail.com)
-
