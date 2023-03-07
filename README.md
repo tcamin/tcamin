@@ -21,3 +21,4 @@ How to reach me:
 
 - [@tomascamin](https://twitter.com/tomascamin)
 - [t.camin@gmail.com](mailto:t.camin@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tomas-camin-28859023)
