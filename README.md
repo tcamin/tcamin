@@ -13,12 +13,12 @@ Here some of the projects I'm maintaining ❤️:
 
 ### Fun fact ⚡
 
-Back in the days, before AI was a thing, I built an app to measure the tennis serve with the iPhone camera. All what remains of this jewel that I built together with @tommyborghi is this [video](https://www.youtube.com/watch?v=xxyR0lSPMrk)
+Back in the days, before AI was a thing, I built an app to measure the tennis serve with the iPhone camera. All what remains of this jewel that I built together with [@tommyborghi](https://twitter.com/tommyborghi) is this [video](https://www.youtube.com/watch?v=xxyR0lSPMrk).
 
 
 ### Contact 📬
 How to reach me:
 
-@tomascamin on Twitter
-[email](mailto:t.camin@gmail.com)
+- [@tomascamin](https://twitter.com/tomascamin) on Twitter
+- [gmail](mailto:t.camin@gmail.com)
 
