@@ -20,4 +20,4 @@ Back in the days, before AI was a thing, I built an app to measure the tennis se
 How to reach me:
 
 - [@tomascamin](https://twitter.com/tomascamin)
-- [gmail](mailto:t.camin@gmail.com)
+- [t.camin@gmail.com](mailto:t.camin@gmail.com)
